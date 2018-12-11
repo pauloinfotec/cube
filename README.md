@@ -1,2 +1,2 @@
 # cube
-Something about rubik cube
+XCross solutions for rubik cube
